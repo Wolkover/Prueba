@@ -15,5 +15,7 @@ public class Main {
         } else {
             JOptionPane.showMessageDialog(null, "Operación cancelada");
         }
+
+    public static oid
     }
 }
